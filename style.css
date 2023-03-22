@@ -1,0 +1,12 @@
+p {
+    line-height: 7px;
+}
+span {
+    display: block;
+}
+.isDisabled {
+    color: currentColor;
+    cursor: not-allowed;
+    opacity: 0.5;
+    text-decoration: none;
+  }
